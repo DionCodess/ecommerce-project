@@ -1,3 +1,57 @@
+# TEAM 10
+
+## App name
+
+CS491 Market
+
+## Team members
+
+- Dion Rugova
+
+This project was completed individually as an accommodation project after the original CS491 team project process was missed.
+
+## App description
+
+CS491 Market is a TypeScript React marketplace application connected to UN Sustainable Development Goal 12: Responsible Consumption and Production. The app demonstrates a sustainable shopping workflow where users can browse responsible products, search and filter the catalog, add items to a cart, complete a dummy checkout, and manage products and orders through an admin dashboard.
+
+## Calendar
+
+No team calendar was used because this was completed individually as an accommodation project.
+
+## Product Backlog
+
+The project backlog is represented through the user stories listed below. The main backlog items include product browsing, search/filtering, cart management, dummy checkout, admin authentication, product management, order tracking, Firebase support, testing, and deployment preparation.
+
+## Architecture & Design
+
+Architecture and design details are documented in `DESIGN.md`.
+
+## Process
+
+This project was completed as an individual accommodation rather than through the full semester team sprint process. The recovery process focused on making the existing application run correctly, verifying quality commands, connecting the application to the SDG theme, documenting the project using the CS491 template, and adding meaningful Git history through branches and pull requests.
+
+## Demo video
+
+TO ADD
+
+## Retrospective
+
+The biggest issue was missing the original semester team process. The recovery work focused on understanding the existing codebase, validating the application, improving the SDG connection, and documenting the project honestly.
+
+## Tools & APIs
+
+- React
+- TypeScript
+- Vite
+- Firebase Hosting
+- Firestore
+- Firebase Auth
+- Vitest
+- ESLint
+- GitHub
+
+---
+
 # CS491 E-commerce Web App
 
 This is a TypeScript React e-commerce project for CS491 Software Engineering. It includes a product catalog, cart, dummy checkout, admin dashboard, Firebase deployment config, Firestore rules/indexes, tests, and documentation.
