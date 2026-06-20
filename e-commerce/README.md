@@ -32,7 +32,21 @@ This project was completed as an individual accommodation rather than through th
 
 ## Demo video
 
-TO ADD
+A demonstration video will accompany the final submission.
+
+The video will demonstrate:
+
+- Product browsing
+- Search and category filtering
+- Product details
+- Shopping cart functionality
+- Dummy checkout process
+- Admin dashboard functionality
+- Firebase configuration overview
+- Type checking
+- Linting
+- Unit tests
+- Production build verification
 
 ## Retrospective
 
