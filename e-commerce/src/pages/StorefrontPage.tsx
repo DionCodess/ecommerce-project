@@ -29,12 +29,21 @@ export function StorefrontPage({ setCart, services }: CartPageProps) {
       <div className="hero">
         <div>
           <p className="eyebrow">CS491 portfolio project</p>
-          <h1>Typed e-commerce storefront with dummy checkout</h1>
+          <h1>Sustainable marketplace with dummy checkout</h1>
           <p>
-            Browse demo products, manage a cart, and complete a simulated payment flow backed by an
+            Browse responsible products, manage a cart, and complete a simulated payment flow backed by an
             OOP TypeScript application design.
           </p>
         </div>
+
+        <div className="sdg-banner">
+          <h3>UN Sustainable Development Goal 12</h3>
+          <p>
+            This project connects to Responsible Consumption and Production by encouraging sustainable
+            shopping choices, reusable products, and environmentally conscious purchasing habits.
+          </p>
+        </div>
+
         <aside className="assistant-card">
           <strong>AI shopping assistant</strong>
           <p>{recommendation}</p>
